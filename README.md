@@ -8,8 +8,6 @@
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black)
 
-![LiterAlura](https://github.com/user-attachments/assets/1d249375-fdda-4422-8a0b-1fe7a51e5511)
-
 ## Descrição do Desafio
 A aplicação deve conseguir:
 - Listar livros consultados pelo seu `titulo` na base de dados, caso não haja. Deverá consultar na API da `Gutendex`
